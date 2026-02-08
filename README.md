@@ -18,7 +18,7 @@ I'm a Big Data Engineer focusing on AI-powered data solutions. I design and buil
 - 🔭 Currently working on **AI-ready data platforms and ML model deployment**
 - 🌱 Learning **LLM infrastructure, vector databases, and AI data pipelines**
 - 🎯 Goal: Becoming a specialized **AI Data Engineer**
-- 💼 Portfolio: [https://zaap.bio/cemalcici](https://zaap.bio/cemalcici)
+- 💼 Portfolio: [https://cemalcici.com/projects](https://cemalcici.com/projects)
 - 📝 I write about data engineering and AI at [https://cemalcici.medium.com/](https://cemalcici.medium.com/)
 - 💬 Ask me about **Spark, Kafka, AI pipelines, MLOps, and Python**
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/cemalcici)**
